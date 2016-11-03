@@ -1,0 +1,13 @@
+{
+  "name": "scrapping-news-y-combinator",
+  "version": "1.0.0",
+  "description": "scrapping with micro services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "micro -p 3001"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
