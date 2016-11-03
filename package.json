@@ -9,5 +9,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "jsdom": "^9.8.3",
+    "micro": "^6.1.0"
+  }
 }
